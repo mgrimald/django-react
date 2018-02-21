@@ -1,4 +1,4 @@
-#usage to start the server:
+# usage to start the server:
 	cd backend
 	pip3 install virtualenv
 	virtualenv djangoEnv
