@@ -19,7 +19,7 @@
 	##	Email address: admin@localhost
 	##	Password:p4ssw0rd
 
-#urls :
+# urls :
 ## admin : ( admin / p4ssw0rd )
 	http://localhost:8000/admin
 ## API : all articles :
